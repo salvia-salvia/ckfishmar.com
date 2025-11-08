@@ -1,0 +1,178 @@
+{
+  "AllRight": "Alle Rechte vorbehalten",
+  "morocco": "Marokko",
+  "linkTitle": {
+    "viewProductscategory": "Produkte in dieser Kategorie anzeigen",
+    "viewProduct": "Produkt anzeigen"
+  },
+
+  "cookies_popup": {
+    "text": "Wir verwenden Cookies, um sicherzustellen, dass wir Ihnen die beste Erfahrung auf unserer Website bieten.",
+    "accept_btn": "Alle akzeptieren",
+    "decline_btn": "Alle ablehnen",
+    "link": "Cookie-Richtlinien lesen"
+  },
+  "navbar": {
+    "main": "Startseite",
+    "about": "Über uns",
+    "products": "Produkte",
+    "contact": "Kontakt",
+    "market": "Markt"
+  },
+  "hero": {
+    "part1": "Innovation vorantreiben in der nachhaltigen Fischverarbeitung",
+    "part2": "Mit fortschrittlicher Gefriertechnologie für Premium-Qualität & Frische",
+    "part3": "Wir kombinieren modernste Gefrier- und Fischverarbeitungslösungen mit umweltfreundlichen Praktiken, um Frische, Geschmack und Nachhaltigkeit zu gewährleisten – und erfüllen dabei die höchsten Industriestandards."
+  },
+  "smallAbout": {
+    "title": "Über CkFish",
+    "part1": "CkFish ist ein vertrauenswürdiges marokkanisches Unternehmen, das sich auf den Export von hochwertigen Meeresfrüchten in internationale Märkte spezialisiert hat.",
+    "part2": "Mit Sitz in Safi – einem der bekanntesten Fischereihäfen Nordafrikas – bezieht CkFish eine breite Palette an frischem und gefrorenem Fisch aus allen wichtigen marokkanischen Häfen, was Vielfalt, Qualität und ganzjährige Verfügbarkeit garantiert. Unsere Produkte entsprechen globalen Lebensmittel- und Nachhaltigkeitsstandards.",
+    "part3": "Mit einem engagierten Team und strengen Qualitätskontrollprozessen von der Beschaffung bis zum Versand sichert CkFish Konsistenz, Transparenz und langfristigen Wert für Partner weltweit – einschließlich Europa, Asien, Afrika, Amerika und dem Nahen Osten.",
+    "LearnMore": "Mehr erfahren"
+  },
+  "category": {
+    "title": "Produkte",
+    "details": "Details",
+    "subTitle": "Wir bieten eine breite Palette an hochwertigen Produkten",
+    "btn1": "Kategorie",
+    "FishTypes": "Fischarten",
+    "SeeAll": "Alle anzeigen"
+  },
+  "reasonsWhy": {
+    "title": "Die Gründe, warum Sie uns wählen sollten",
+    "reasons": {
+      "01": "Qualität hat für uns oberste Priorität. Von der täglichen Fischauswahl bis zur endgültigen Lieferung wird jede Phase sorgfältig kontrolliert, um Frische, Geschmack und höchste Standards zu bewahren.",
+      "02": "Unser Fisch stammt aus vertrauenswürdigen marokkanischen Fischereien, die nachhaltige Praktiken anwenden, die das Meeresleben und die Umwelt respektieren.",
+      "03": "Wir bieten faire Preise, ohne Kompromisse bei der Qualität einzugehen – so sind Premium-Meeresfrüchte zugänglich und verlässlich.",
+      "04": "Pünktlichkeit ist unser Versprechen. Wir gewährleisten eine schnelle, sichere und pünktliche Lieferung für jede Bestellung, überall auf der Welt.",
+      "05": "Die Zufriedenheit unserer Kunden ist unser Antrieb. Wir bieten persönlichen Service, schnelle Antworten und einen flexiblen Ansatz, der auf Ihre Bedürfnisse zugeschnitten ist."
+    }
+  },
+  "contact_us": {
+    "title": "Kontaktieren Sie uns",
+    "email_error": "Ungültige E-Mail",
+    "phone_error": "Ungültige Telefonnummer",
+    "form": {
+      "placeholder_name": "Name",
+      "placeholder_email": "Ihre E-Mail-Adresse",
+      "placeholder_phone": "Telefonnummer",
+      "placeholder_msg": "Nachricht",
+      "btn_text": "Nachricht senden"
+    },
+    "info": {
+      "address": "Adresse",
+      "phone": "Telefon",
+      "contactMedia": "Kontakt in sozialen Medien"
+    }
+  },
+  "aboutPage": {
+    "introduction": {
+      "part1": "Wir sind ein Team von Fachleuten, das sich auf den direkten Export von Fisch aus Marokko spezialisiert hat.",
+      "part2": "CkFish ist ein Unternehmen, das sich auf den Export von Fisch- und Meeresfrüchteprodukten aus Marokko in verschiedene globale Märkte spezialisiert hat. Mit jahrelanger Erfahrung in der Exportbranche verpflichtet sich CkFish den höchsten Qualitätsstandards und der vollständigen Einhaltung internationaler Vorschriften."
+    },
+    "whyWeAreBetter": {
+      "title": "Warum sind wir besser als andere?",
+      "text1": "Es ist oft zu beobachten, dass lokale marokkanische Lieferanten bei ihren Vereinbarungen und Bedingungen etwas nachlässig sind. Wir bei CkFish wissen, wie schwer es ist, einen Ruf aufzubauen, und wir schützen Sie und Ihre Endkunden vor möglichen 'Überraschungen'.",
+      "subTitle": "Qualität der Waren",
+      "text2": {
+        "part1": "Anders als viele lokale Unternehmen sind wir Verkäufer, keine Vermittler, und tragen daher echte Risiken (!) und nicht nur konstruktive Verpflichtungen für die Qualität der von uns gelieferten Waren.",
+        "part2": "Wenn ein bestimmtes Produkt nicht auf Lager ist, stellen wir Ihre Bestellung aus mehreren Herstellern zusammen, unter Einhaltung all Ihrer Wünsche und Anforderungen.",
+        "part3": "Unsere qualifizierten Experten überwachen die Warenannahme von der ersten Ankunft zur Produktion/Verpackung bis zur abschließenden Überprüfung der Übereinstimmung von Spezifikationen, Qualität, Menge und Verpackung – bevor sie in das Transportfahrzeug geladen werden."
+      }
+    },
+    "services": {
+      "title": "Dienstleistungen",
+      "part1": "Kunden von CkFish erhalten stets als Erste die neuesten Marktangebote, was ihnen Zeit spart und ihnen einen entscheidenden Wettbewerbsvorteil in einem volatilen Markt verschafft.",
+      "part2": "Unsere Exportabteilung erstellt schnell und korrekt alle Versanddokumente, unter Berücksichtigung aller Feinheiten und Anforderungen Ihrer nationalen Regulierungsbehörden.",
+      "part3": "Wir senden unseren potenziellen Kunden kostenlose Produktproben und organisieren einen Besuch in Marokko, einschließlich Hotelreservierungen, Flughafentransfers, persönlichem Transport und vielem mehr."
+    },
+    "price": {
+      "title": "Preis",
+      "part1": "Wir erzielen effektive Lösungen durch die Erhöhung des Umsatzes, die Reduzierung der Margen und die Bereitstellung günstigerer Tarife für Logistikdienstleistungen. Als Ergebnis erhalten Sie Preise, die in jeder Phase optimiert sind.",
+      "part2": "Unabhängig von der Größe Ihrer Bestellung erstellen wir ein exklusives Angebot für Sie, das den Angeboten unserer Wettbewerber für Großimporteure entspricht. CkFish bietet immer günstige Preise, selbst für Mindestmengen.",
+      "part3": "Wir bieten auch ein System mit zusätzlichen Rabatten für unsere treuen Kunden."
+    }
+  },
+  "fish_product": {
+    "title": {
+      "part_1": "Bestellen",
+      "part_2": "direkt aus Marokko für den Export."
+    },
+    "description": "Beschreibung",
+    "commercialNames": "Handelsbezeichnungen",
+    "specification": {
+      "title": "Spezifikation",
+      "part1": "Block Quick Freezing (BQF) - Blockgefrieren",
+      "part2": "Individual Quick Freezing (IQF) - Einzelstückgefrieren",
+      "part3": "Individually wrapped packaging (IWP) - Einzelverpackung"
+    },
+    "scientific_name": "Wissenschaftlicher Name",
+    "fishing_zone": "Fanggebiet",
+    "fao": "FAO",
+    "shelf_life": "Haltbarkeit",
+    "month": "Monat",
+    "submit": "Absenden"
+  },
+  "about_us_seo_content": {
+    "title": "Über CkFish | Marokkanisches Fisch-Exportunternehmen",
+    "description": "CkFish ist auf den Export von Premium-Meeresfrüchten aus Marokko spezialisiert. Entdecken Sie unsere Mission, Werte und unser Engagement für nachhaltigen Fischhandel.",
+    "keywords": "Fischexport Marokko, marokkanische Meeresfrüchte, marokkanischer Fischexporteur, nachhaltige Fischerei, Exportunternehmen für Meeresfrüchte"
+  },
+  "products_seo_content": {
+    "title": "Unsere Produkte | Marokkanischer Meeresfrüchte-Exporteur - CkFish",
+    "description": "Entdecken Sie unser Sortiment an Premium-Fisch- und Meeresfrüchteprodukten, die aus Marokko exportiert werden. CkFish liefert Qualität, Nachhaltigkeit und Frische.",
+    "keywords": "marokkanische Meeresfrüchte, Fischexport Marokko, Exporteur für frischen Fisch, Meeresfrüchteunternehmen Marokko"
+  },
+  "category_seo": {
+    "title_template": "{name} | CkFish - Marokkanischer Meeresfrüchte-Exporteur",
+    "description_template": "Entdecken Sie hochwertige {name}, die aus Marokko exportiert werden. CkFish bietet erstklassige nachhaltige Meeresfrüchte.",
+    "keywords_template": "{name}, marokkanische Meeresfrüchte, Fischexport Marokko, nachhaltige Fischerei",
+    "default_name": "Meeresfrüchte-Kategorie"
+  },
+  "fish_seo_content": {
+    "title_template": "{name} | Exportiert aus Marokko von CkFish",
+    "description_template": "{name} ({scientific}) ist eines unserer hochwertigsten Meeresfrüchteprodukte, das nachhaltig aus Marokko exportiert wird.",
+    "keywords_template": "{name}, marokkanischer Fischexport, nachhaltige Meeresfrüchte, {name} Marokko"
+  },
+  "market_seo_content": {
+    "title": "Marokkanische Fischmarktpreise in Echtzeit | CkFish",
+    "description": "Überprüfen Sie die marokkanischen Fisch- und Meeresfrüchtepreise in Echtzeit direkt von den lokalen Häfen. Bleiben Sie mit den neuesten Marktdaten von CkFish auf dem Laufenden.",
+    "keywords": "marokkanischer Fischmarkt, Fischpreise Marokko, Meeresfrüchtepreise Marokko, Fischpreise Hafen Marokko, Echtzeit Fischmarktdaten"
+  },
+  "cookies_policy": {
+    "title": "Cookie-Richtlinie",
+    "lastUpdated": "Zuletzt aktualisiert: {date}",
+    "whatAreCookiesTitle": "1. Was sind Cookies?",
+    "whatAreCookiesText": "Cookies sind kleine Textdateien, die auf Ihrem Gerät gespeichert werden, wenn Sie eine Website besuchen. Sie helfen uns, Ihre Präferenzen zu speichern, Ihr Erlebnis zu verbessern und die Leistung der Website zu analysieren.",
+    "howWeUseCookiesTitle": "2. Wie wir Cookies verwenden",
+    "essential": "Notwendige Cookies: Erforderlich für die grundlegende Funktionalität der Website.",
+    "performance": "Leistungs-Cookies: Helfen uns zu verstehen, wie Besucher mit unserer Website interagieren.",
+    "functional": "Funktionale Cookies: Speichern Ihre Präferenzen und Einstellungen.",
+    "advertising": "Werbe-Cookies: Werden verwendet, um relevante Werbung anzuzeigen.",
+    "thirdPartyTitle": "3. Cookies von Drittanbietern",
+    "thirdPartyText": "Einige Cookies können von Drittanbietern gesetzt werden, die wir nutzen, wie z. B. Analyseanbieter oder Werbetreibende. Wir haben keine Kontrolle über diese Cookies und empfehlen, deren jeweilige Datenschutzrichtlinien zu prüfen.",
+    "yourChoicesTitle": "4. Ihre Wahlmöglichkeiten",
+    "yourChoicesText": "Sie können Cookies akzeptieren oder ablehnen, wenn Sie unsere Website besuchen. Sie können Cookies auch über Ihre Browsereinstellungen steuern und löschen.",
+    "contactTitle": "5. Kontaktieren Sie uns",
+    "contactText": "Wenn Sie Fragen zu dieser Cookie-Richtlinie haben, können Sie uns kontaktieren unter:",
+    "back": "Zurück zur Startseite"
+  },
+  "contactPopup": {
+    "subTitle": "Hinterlassen Sie Ihre Nummer oder E-Mail",
+    "title": "Wir werden Sie kontaktieren",
+    "description": "Hinterlassen Sie Ihre Telefonnummer oder E-Mail, und wir melden uns bald bei Ihnen.",
+    "inputPlaceholder": "Ihre Telefonnummer oder E-Mail",
+    "weWillContactYou": "Wir werden Sie kontaktieren",
+    "submitButton": "Senden",
+    "inputNamePlaceholder": "Name",
+    "errorRequired": "Bitte füllen Sie das Feld aus",
+    "errorInvalid": "Bitte geben Sie eine gültige Telefonnummer oder E-Mail an",
+    "successMessage": "Fertig, wir werden Sie bald kontaktieren",
+    "privacyNote": "Wichtig: Wir geben Ihre Informationen nicht an Dritte weiter. Nur um Sie zu kontaktieren.",
+    "closeButtonAria": "Popup schließen",
+    "manualCloseText": "Wenn Sie dies nicht mehr sehen möchten,",
+    "manualCloseButton": "Popup schließen",
+    "triggerButton": "Kontaktieren Sie uns"
+  }
+}

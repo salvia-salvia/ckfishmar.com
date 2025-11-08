@@ -1,0 +1,177 @@
+{
+  "AllRight": "All Rights reserved",
+  "morocco": "Morocco",
+  "linkTitle": {
+    "viewProductscategory": "View products in the category",
+    "viewProduct": "View product"
+  },
+  "cookies_popup": {
+    "text": "We use cookies to ensure that we give you the best experience on our website.",
+    "accept_btn": " Accept All",
+    "decline_btn": "Decline All",
+    "link": "Read cookies policies"
+  },
+  "navbar": {
+    "main": "Home",
+    "about": "About",
+    "products": "Products",
+    "contact": "Contact",
+    "market": "Market"
+  },
+  "hero": {
+    "part1": "Driving Innovation in Sustainable Seafood Processing",
+    "part2": "Using Advanced Freezing Technology for Premium Quality & Freshness",
+    "part3": "We combine cutting-edge freezing and seafood processing solutions with eco-friendly practices to ensure freshness, flavor, and sustainability—meeting the highest industry standards."
+  },
+  "smallAbout": {
+    "title": "About CkFish",
+    "part1": "CkFish is a trusted Moroccan company specializing in the export of premium-quality seafood to international markets.",
+    "part2": " Located in Safi—one of North Africa’s most renowned fishing ports—CkFish sources a wide range of fresh and frozen fish from all major Moroccan ports, ensuring variety, quality, and year-round availability. Our products comply with global food safety and sustainability standards.",
+    "part3": " With a dedicated team and strict quality control processes from sourcing to shipping, CkFish ensures consistency, transparency, and long-term value for partners across the globe—including Europe, Asia, Africa, the Americas, and the Middle East.",
+    "LearnMore": "Learn More"
+  },
+  "category": {
+    "title": "Products",
+    "details": "details",
+    "subTitle": " We offer a quality and wide range of goods",
+    "btn1": "category",
+    "FishTypes": "types Of fish",
+    "SeeAll": "See All"
+  },
+  "reasonsWhy": {
+    "title": "The reasons why you should choose us",
+    "reasons": {
+      "01": "We prioritize quality above all. From daily fish selection to final delivery, every stage is carefully controlled to preserve freshness, flavor, and top-tier standards.",
+      "02": "Our fish is ethically sourced from trusted Moroccan fisheries, following sustainable practices that respect marine life and the environment.",
+      "03": "We offer fair pricing without compromising on quality—making premium seafood accessible and reliable.",
+      "04": "Punctuality is our promise. We ensure fast, safe, and on-time delivery for every order, anywhere in the world.",
+      "05": "Client satisfaction drives us. We provide personalized service, fast responses, and a flexible approach tailored to your needs."
+    }
+  },
+  "contact_us": {
+    "title": "Contact us",
+    "email_error":"Invalid email",
+    "phone_error":"Invalid phone number",
+    "form": {
+      "placeholder_name": "name",
+      "placeholder_email": "your email",
+      "placeholder_phone": "phone Number",
+      "placeholder_msg": "message",
+      "btn_text": "send Message"
+    },
+    "info": {
+      "address": "address",
+      "phone": "phone",
+      "contactMedia": "contact in solcial media"
+    }
+  },
+  "aboutPage": {
+    "introduction": {
+      "part1": "We are a team of professionals specializing in the direct export of fish from Morocco.",
+      "part2": "CkFish is a company specialized in exporting fish and seafood products from Morocco to various global markets. With years of experience in the export industry, CkFish is committed to the highest standards of quality and full compliance with international regulations."
+    },
+    "whyWeAreBetter": {
+      "title": "Why we are better than others?",
+      "text1": "it can often be obseved that the local Moroccan suuppliers are a bit loose on thier agreements and terms. we, at CkFish, understand how hard it is to establish a repuation and we'll protect you and your final customers from any possible 'suprices'.",
+      "subTitle": "Quality of goods",
+      "text2": {
+        "part1": "Unlike many local companies, we are Sellers,not intermediaries, and therefore we carry real risks (!) not just constructive obligations for the quality of the googs we deliver.",
+        "part2": "if there is a shortage in stock of the right product, we will compile your order from several manufacturers in compliance with all Your wishes and requirements.",
+        "part3": " Our qualified experts will monitor the acceptance of goods from the of its first arrival for production/packaging, up to a final check of the conformance of specifications, quality, quantity, packaging - before loading into the transporting vehicle."
+      }
+    },
+    "services": {
+      "title": "Services",
+      "part1": "CkFish's customres are always the first to receive the most recent selection of market's proposals, saving their time, which will provide curtain competitive advantage around the market volatility.",
+      "part2": "Our exports department will quickly and correctly execute all shipping documents, taking into account all the niceties and requirements of your national regulatory authorities.",
+      "part3": "We are sending free samples of products to our potential customers and arranging a visit to Morocco, including hotel reservations, airport transfers, personal transport and much more."
+    },
+    "price": {
+      "title": "Price",
+      "part1": "We achieve effective solutions by inceasing the turnover, reducing margins and providing more favorable tariffs for logistics services As a result, you get the prices optimzed through each and every stage.",
+      "part2": "Regradless of the quantum of Your order, we will compile an exclusive offer for You, which will be equal to those our competitors' are offering to the major importers. CkFish always has favorable prices even for minimum lots.",
+      "part3": "We also offer a system of additional discounts for our loyal customers."
+    }
+  },
+  "fish_product": {
+    "title": {
+      "part_1": "Order",
+      "part_2": "directly from Morocco for export."
+    },
+    "description": "description",
+    "commercialNames": "commercial designations",
+    "specification": {
+      "title": "specification",
+      "part1": "Block Quick Freezing (BQF)",
+      "part2": "BIndividual Quick Freezing (IQF)",
+      "part3": "Individually wrapped packaging (IWP)"
+    },
+    "scientific_name": "scientific name",
+    "fishing_zone": "fishing zone",
+    "fao": "fao",
+    "shelf_life": "shelf life",
+    "month": "month",
+    "submit": "Submit"
+  },
+  "about_us_seo_content": {
+    "title": "About CkFish | Moroccan Fish Export Company",
+    "description": "CkFish specializes in exporting premium seafood from Morocco. Discover our mission, values, and commitment to sustainable fish trade.",
+    "keywords": "fish export Morocco, Moroccan seafood, Moroccan fish exporter, sustainable fishing, export seafood company"
+  },
+  "products_seo_content": {
+    "title": "Our Products | Moroccan Seafood Exporter - CkFish",
+    "description": "Explore our range of premium fish and seafood products exported from Morocco. CkFish delivers quality, sustainability, and freshness.",
+    "keywords": "Moroccan seafood products, fish export Morocco, fresh fish exporter, seafood company Morocco"
+  },
+  "category_seo": {
+    "title_template": "{name} | CkFish - Moroccan Seafood Exporter",
+    "description_template": "Explore high-quality {name} exported from Morocco. CkFish offers premium sustainable seafood.",
+    "keywords_template": "{name}, Moroccan seafood, export fish Morocco, sustainable fishing",
+    "default_name": "Seafood Category"
+  },
+  "fish_seo_content": {
+    "title_template": "{name} | Exported from Morocco by CkFish",
+    "description_template": "{name} ({scientific}) is one of our top-quality seafood products sustainably exported from Morocco.",
+    "keywords_template": "{name}, Moroccan fish export, sustainable seafood, {name} Morocco"
+  },
+  "market_seo_content": {
+    "title": "Moroccan Fish Market Prices in Real Time | CkFish",
+    "description": "Check real-time Moroccan fish and seafood prices directly from local ports. Stay updated with the freshest market data provided by CkFish.",
+    "keywords": "Moroccan fish market, fish prices Morocco, seafood prices Morocco, Moroccan port fish prices, real-time fish market data"
+  },
+  "cookies_policy": {
+    "title": "Cookies Policy",
+    "lastUpdated": "Last updated: {date}",
+    "whatAreCookiesTitle": "1. What Are Cookies?",
+    "whatAreCookiesText": "Cookies are small text files stored on your device when you visit a website. They help us remember your preferences, improve your experience, and analyze website performance.",
+    "howWeUseCookiesTitle": "2. How We Use Cookies",
+    "essential": "Essential Cookies: Required for the basic functionality of the site.",
+    "performance": "Performance Cookies: Help us understand how visitors interact with our website.",
+    "functional": "Functional Cookies: Remember your preferences and settings.",
+    "advertising": "Advertising Cookies: Used to deliver relevant advertisements.",
+    "thirdPartyTitle": "3. Third-Party Cookies",
+    "thirdPartyText": "Some cookies may be placed by third-party services we use, such as analytics providers or advertisers. We have no control over these cookies and recommend checking their respective privacy policies.",
+    "yourChoicesTitle": "4. Your Choices",
+    "yourChoicesText": "You can choose to accept or reject cookies when visiting our website. You can also control and delete cookies through your browser settings.",
+    "contactTitle": "5. Contact Us",
+    "contactText": "If you have any questions about this Cookies Policy, you can contact us at:",
+    "back": "Back to Home"
+  },
+  "contactPopup": {
+    "subTitle": "Leave your number or email",
+    "title": "we’ll contact you",
+    "description": "Leave your phone or email, and we'll get back to you soon.",
+    "inputPlaceholder": "Your phone or email",
+    "inputNamePlaceholder": "Name",
+    "submitButton": "Get in Touch",
+    "errorRequired": "Please fill in the field",
+    "errorInvalid": "Please provide a valid phone or email",
+    "successMessage": "Done, we'll contact you soon",
+    "errorMessage": "Failed to send message. Try again.",
+    "privacyNote": "Important: We do not share your info with third parties. Only to get back to you.",
+    "closeButtonAria": "close popup",
+    "manualCloseText": "If you don't want to see this again,",
+    "manualCloseButton": "close popup",
+    "triggerButton": "Contact us"
+  }
+}
