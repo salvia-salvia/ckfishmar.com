@@ -35,12 +35,19 @@ export default function Header({
 
   return (
     <header
-      className={` ${className} font-open-sans fixed animate__animated  animate__fadeInDownBig top-0 w-full py-2 z-80 transition-colors duration-300 ${
+      // className={` ${className} font-open-sans fixed animate__animated  animate__fadeInDownBig top-0 w-full py-2 z-80 transition-colors duration-300 ${
+      //   scrolled
+      //     ? "bg-white shadow-md"
+      //     : `bg-transparent  ${
+      //         isProductPage ? "text-black" : "text-white "
+      //       } pt-4 md:pt-8 `
+      // }`}
+      className={` ${className} font-open-sans fixed animate__animated  animate__fadeInDownBig top-0 w-full   z-80 transition-colors duration-300 ${
         scrolled
           ? "bg-white shadow-md"
           : `bg-transparent  ${
               isProductPage ? "text-black" : "text-white "
-            } pt-4 md:pt-8 `
+            }     bg-background/10 backdrop-blur-3xl`
       }`}
     >
       <div
@@ -85,12 +92,18 @@ export default function Header({
         </nav>
         <div className="w-[100px] lg:w-[200px]  lg:mr-42 ">
           <Link href={`/${locale}`}>
-            <Image
+            {/* <Image
               alt="logo"
               src={`${
                 scrolled || isProductPage ? "/logo.svg" : "/white_logo.svg"
               }`}
               width={200}
+              height={70}
+            /> */}
+             <Image
+              alt="logo"
+              src={`/logo.png`}
+              width={90}
               height={70}
             />
           </Link>

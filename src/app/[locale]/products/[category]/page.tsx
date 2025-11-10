@@ -53,7 +53,8 @@ export default async function page({ params }: Props) {
   const { category } = await params;
   
   const allFish = await getAllFishByCategory(category);
-
+  console.log(allFish);
+  
   return (
     <div className="w-full">
       <Header isProductPage={true} />

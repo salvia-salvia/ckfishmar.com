@@ -2,7 +2,6 @@ import { Port } from "@/types";
 
 export const navbarRoutes = [
   { name: "navbar.main", link: "/" },
-  { name: "navbar.market", link: "/market" },
   { name: "navbar.about", link: "/about" },
   { name: "navbar.products", link: "/products" },
   { name: "navbar.contact", link: "#contact" },
