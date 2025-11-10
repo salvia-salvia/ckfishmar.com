@@ -18,14 +18,14 @@ export default function AboutPageContent() {
           </div>
 
           <div>
-            <Image
+            {/* <Image
               src={`/img/ckFish.png`}
               alt="about"
               width={1300}
               height={200}
               priority
               className="w-[310px] sm:w-[750px] lg:w-[1000px]  xl:w-[1300px] md:h-[100px] lg:h-[150px] xl:h-[200px] mx-auto"
-            />
+            /> */}
           </div>
           <div>
             <p className="lg:text-xl  max-w-[560px] py-22 leading-relaxed text-gray-600 ">

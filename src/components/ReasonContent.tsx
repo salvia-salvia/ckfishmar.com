@@ -10,7 +10,7 @@ export default function ReasonContent() {
         {t("title")}
       </h1>
       <div className="flex  gap-5 ">
-        <ul className="flex flex-col gap-16 max-w-xl mt-10 text-black md:text-xl leading-relaxed">
+        <ul className="flex flex-col gap-16   mt-10   text-black md:text-xl leading-relaxed">
           {reasons.map(({ id }) => (
             <li key={id} className="flex items-start">
               <span className="text-3xl font-semibold text-[#34699a] w-12 flex-shrink-0">
@@ -24,13 +24,13 @@ export default function ReasonContent() {
         </ul>
         <div className="hidden lg:flex justify-center">
           {" "}
-          <Image
+          {/* <Image
             className="w-[700px] h-[400px] z-[-1]"
             src={"/img/reasonImg.png"}
             alt="Illustration representing the reasons why our company is the best choice"
             width={800}
             height={600}
-          />
+          /> */}
         </div>
       </div>
       <div className="flex flex-col gap-16 ">

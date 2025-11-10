@@ -72,7 +72,7 @@
       "part2": "CkFish es una empresa especializada en la exportación de pescados y mariscos desde Marruecos hacia diversos mercados internacionales. Con años de experiencia en la industria, CkFish está comprometida con los más altos estándares de calidad y el pleno cumplimiento de las normativas internacionales."
     },
     "whyWeAreBetter": {
-      "title": "¿Por qué somos mejores que otros?",
+      "title": "Por qué somos mejores que otros?",
       "text1": "A menudo se observa que los proveedores locales marroquíes no cumplen estrictamente con sus acuerdos. En CkFish entendemos lo difícil que es construir una reputación, y por eso te protegemos a ti y a tus clientes finales de cualquier sorpresa inesperada.",
       "subTitle": "Calidad del producto",
       "text2": {
@@ -143,7 +143,7 @@
   "cookies_policy": {
     "title": "Política de cookies",
     "lastUpdated": "Última actualización: {date}",
-    "whatAreCookiesTitle": "1. ¿Qué son las cookies?",
+    "whatAreCookiesTitle": "1. Qué son las cookies?",
     "whatAreCookiesText": "Las cookies son pequeños archivos de texto que se almacenan en su dispositivo cuando visita un sitio web. Nos ayudan a recordar sus preferencias, mejorar su experiencia y analizar el rendimiento del sitio.",
     "howWeUseCookiesTitle": "2. Cómo usamos las cookies",
     "essential": "Cookies esenciales: Necesarias para el funcionamiento básico del sitio.",
