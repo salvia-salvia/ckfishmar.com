@@ -7,7 +7,6 @@ import "animate.css";
 import ContactContent from "@/components/ContactContent";
 import Footer from "@/components/Footer";
 import { useLocale, useTranslations } from "next-intl";
-import Trusted from "@/components/Trusted";
 
 export default function Home() {
   const t = useTranslations("hero");
@@ -67,7 +66,7 @@ export default function Home() {
 
       <section className="w-full  min-h-screen md:px-12 bg-[url('/img/aboutbg.png')] bg-cover bg-center ">
         <AboutContent />
-        <Trusted />
+         
       </section>
       <section className="w-full my-[100px] min-h-screen md:px-12  bg-[url('/img/productsbg.png')] bg-cover bg-center ">
         <CategoriesContent />

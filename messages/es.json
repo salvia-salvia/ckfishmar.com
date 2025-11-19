@@ -174,9 +174,5 @@
     "manualCloseText": "Si no quieres ver esto de nuevo,",
     "manualCloseButton": "cerrar popup",
     "triggerButton": "Contáctanos"
-  },
-  "trusted": {
-    "title": "Nuestros Socios de Confianza",
-    "subtitle": "Marcas líderes con las que colaboramos para adquirir y entregar productos de calidad."
-  }
+  } 
 }

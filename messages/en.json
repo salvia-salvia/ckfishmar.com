@@ -173,9 +173,5 @@
     "manualCloseText": "If you don't want to see this again,",
     "manualCloseButton": "close popup",
     "triggerButton": "Contact us"
-  },
-  "trusted": {
-    "title": "Our Trusted Partners",
-    "subtitle": "Leading brands we collaborate with to source and deliver quality products."
-  }
+  } 
 }
