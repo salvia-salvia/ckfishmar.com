@@ -48,8 +48,7 @@ export const metadataByLocale: Record<
     },
   },
   fr: {
-    title:
-      "CkFish - Exportateur marocain de produits de la mer haut de gamme",
+    title: "CkFish - Exportateur marocain de produits de la mer haut de gamme",
     description:
       "CkFish est une entreprise marocaine basée à Safi, spécialisée dans l’exportation de poissons frais et surgelés vers les marchés internationaux. Qualité, sécurité alimentaire et durabilité garanties.",
     keywords:
@@ -194,28 +193,28 @@ export const fishCategories = [
     id: "demersal",
     image: "/img/fish/SOLE.png",
     name: {
-      en: "Demersal Fish",
-      fr: "Poisson Démersal",
-      es: "Pescado Demersal",
-      de: "Demersaler Fisch",
-      it: "Pesce demersale",
-      pt: "Peixe Demersal",
-      ru: "Демеральная рыба",
+      en: "Scaly Fish",
+      fr: "Poisson Écaillé",
+      es: "Pescado de Escama",
+      de: "Schuppiger Fisch",
+      it: "Pesce Squamoso",
+      pt: "Peixe Escamado",
+      ru: "Чешуйчатая рыба",
     },
   },
-  {
-    id: "pelagic",
-    image: "/img/fish/PEZ_LEMON.png",
-    name: {
-      en: "Pelagic Fish",
-      fr: "Poisson Pélagique",
-      es: "Pescado Pelágico",
-      de: "Pelagischer Fisch",
-      it: "Pesce pelagico",
-      pt: "Peixe Pelágico",
-      ru: "Пелагическая рыба",
-    },
-  },
+  // {
+  //   id: "pelagic",
+  //   image: "/img/fish/PEZ_LEMON.png",
+  //   name: {
+  //     en: "Pelagic Fish",
+  //     fr: "Poisson Pélagique",
+  //     es: "Pescado Pelágico",
+  //     de: "Pelagischer Fisch",
+  //     it: "Pesce pelagico",
+  //     pt: "Peixe Pelágico",
+  //     ru: "Пелагическая рыба",
+  //   },
+  // },
   {
     id: "cephalopod",
     image: "/img/fish/CALAMAR.png",
@@ -231,8 +230,7 @@ export const fishCategories = [
   },
 ];
 
-export const products =
- {
+export const products = {
   cephalopod: [
     {
       id: "CALAMAR",
