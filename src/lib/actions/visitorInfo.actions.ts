@@ -12,8 +12,7 @@ export async function getVisitorInfo(ip: string) {
     );
     const reader = await Reader.open(dbPath);
     const geo = reader.city(ip);
-    console.log(geo);
-
+     
     return {
       country: geo.country?.isoCode,
       city: geo.city?.names?.en,

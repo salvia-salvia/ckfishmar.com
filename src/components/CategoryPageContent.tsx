@@ -114,7 +114,7 @@ export default function CategoryPageContent({
             const selectedCountry = countriesToSelect.find(
               (c) => c.code === selectedCountryCode
             );
-            console.log(selectedCountry);
+             
             
             const slugLower = pro.scientifcName
               .replace(/\s+/g, "-")
@@ -145,7 +145,7 @@ export default function CategoryPageContent({
                     <ul className="flex  w-full justify-center flex-wrap items-center gap-3 mx-auto">
                       {pro?.commercialNames?.[selectedCountry?.name ?? ""]?.map(
                         (item, idx) => {
-                          console.log(item.commercialName,pro._id);
+                           
                           
                           return (
                             item.commercialName !== pro?.scientifcName && (
