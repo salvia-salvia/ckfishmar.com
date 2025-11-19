@@ -174,5 +174,9 @@
     "manualCloseText": "Se não quiser ver isto novamente,",
     "manualCloseButton": "fechar popup",
     "triggerButton": "Contacte-nos"
+  },
+  "trusted": {
+    "title": "Nossos Parceiros de Confiança",
+    "subtitle": "Marcas líderes com as quais colaboramos para obter e entregar produtos de qualidade."
   }
 }

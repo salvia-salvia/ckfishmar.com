@@ -8,7 +8,7 @@ export default function AboutContent() {
   return (
     <section
       id="about"
-      className=" flex gap-20  font-open-sans items-center min-h-screen py-20 px-6"
+      className=" flex gap-20  font-open-sans items-center min-h-screen py-10 px-6"
     >
       <Image
         src={`/img/map.png`}

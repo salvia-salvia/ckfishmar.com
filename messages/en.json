@@ -50,8 +50,8 @@
   },
   "contact_us": {
     "title": "Contact us",
-    "email_error":"Invalid email",
-    "phone_error":"Invalid phone number",
+    "email_error": "Invalid email",
+    "phone_error": "Invalid phone number",
     "form": {
       "placeholder_name": "name",
       "placeholder_email": "your email",
@@ -173,5 +173,9 @@
     "manualCloseText": "If you don't want to see this again,",
     "manualCloseButton": "close popup",
     "triggerButton": "Contact us"
+  },
+  "trusted": {
+    "title": "Our Trusted Partners",
+    "subtitle": "Leading brands we collaborate with to source and deliver quality products."
   }
 }
